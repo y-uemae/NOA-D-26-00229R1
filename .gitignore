@@ -1,0 +1,23 @@
+# Raw data — never commit (obtain from public sources; see README)
+data/raw/**
+!data/raw/.gitkeep
+
+# Large intermediate matrices (regenerated from raw data)
+results/**/expression_full_*
+results/**/glass_expression_full_*
+results/**/tmp_*.gct
+results/**/*.tar.gz
+
+# R session / IDE artifacts
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local credentials (should not exist, kept as a safeguard)
+.Renviron
