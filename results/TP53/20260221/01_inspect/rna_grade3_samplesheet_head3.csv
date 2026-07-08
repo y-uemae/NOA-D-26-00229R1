@@ -1,0 +1,4 @@
+File ID,File Name,Data Category,Data Type,Project ID,Case ID,Sample ID,Tissue Type,Tumor Descriptor,Specimen Type,Preservation Method
+c4f97ad6-26e8-4455-a702-1159d6bbf684,11998f08-1056-4823-8d79-c145fdf911c9.rna_seq.augmented_star_gene_counts.tsv,Transcriptome Profiling,Gene Expression Quantification,CPTAC-3,C3N-03788,C3N-03788-03,Tumor,Primary,Solid Tissue,Snap Frozen
+00831dfd-0859-4e24-9672-36f0d47984c6,63258e05-fab4-480e-8a21-67c0a3db17b0.rna_seq.augmented_star_gene_counts.tsv,Transcriptome Profiling,Gene Expression Quantification,TCGA-LGG,TCGA-WY-A858,TCGA-WY-A858-01A,Tumor,Primary,Solid Tissue,OCT
+9e20e75a-a346-40b6-ab94-7db7bf9f0432,ef6c1d11-0427-473a-bc32-9f4ed553bf61.wxs.aliquot_ensemble_masked.maf.gz,Simple Nucleotide Variation,Masked Somatic Mutation,TCGA-LGG,"TCGA-WY-A858, TCGA-WY-A858","TCGA-WY-A858-10A, TCGA-WY-A858-01A","Normal, Tumor","Not Applicable, Primary","Peripheral Blood NOS, Solid Tissue","Unknown, OCT"

@@ -1,0 +1,3 @@
+source,tp53_effect,se,ci_lower,ci_upper,n,model
+TCGA,0.3653,0.0823,0.2039,0.5267,245,M_int
+CPTAC/HCMI,0.142,0.0882,-0.0309,0.3149,197,M_int

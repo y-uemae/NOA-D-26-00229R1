@@ -1,0 +1,6 @@
+File ID,File Name,Data Category,Data Type,Project ID,Case ID,Sample ID,Tissue Type,Tumor Descriptor,Specimen Type,Preservation Method
+7d2860b9-d6fe-4d92-a349-6545dea48311,c6b53ece-179d-4eb7-b4e0-7e5ba2a06a03.rna_seq.augmented_star_gene_counts.tsv,Transcriptome Profiling,Gene Expression Quantification,HCMI-CMDC,HCM-BROD-0418-C71,HCM-BROD-0418-C71-01A,Tumor,Primary,Solid Tissue,Frozen
+6eec8fd8-772f-4ffc-b591-193227f9477b,3a7fd71e-9336-46e0-8106-3df32aed7c20.rna_seq.augmented_star_gene_counts.tsv,Transcriptome Profiling,Gene Expression Quantification,HCMI-CMDC,HCM-BROD-0796-C71,HCM-BROD-0796-C71-85A,Tumor,Primary,3D Neurosphere,Frozen
+253e7630-4e36-4663-a73a-2291a762e9e8,c3f20523-ca78-45ef-a3fb-185155bf5fdd.rna_seq.augmented_star_gene_counts.tsv,Transcriptome Profiling,Gene Expression Quantification,CPTAC-3,C3N-01815,C3N-01815-01,Tumor,Primary,Solid Tissue,Snap Frozen
+c0b3e84e-74fa-47da-8926-5579da919eec,12ecbdc2-76c1-4c5a-b6e3-510d4c05785f.rna_seq.augmented_star_gene_counts.tsv,Transcriptome Profiling,Gene Expression Quantification,CPTAC-3,C3N-00665,C3N-00665-01,Tumor,Primary,Solid Tissue,Snap Frozen
+e0a69a83-c3ee-430c-9769-816d68d8b746,3542bc9c-ce17-4129-90fe-b1bfee35e00d.rna_seq.augmented_star_gene_counts.tsv,Transcriptome Profiling,Gene Expression Quantification,CPTAC-3,C3N-01192,C3N-01192-05,Tumor,Primary,Solid Tissue,Snap Frozen

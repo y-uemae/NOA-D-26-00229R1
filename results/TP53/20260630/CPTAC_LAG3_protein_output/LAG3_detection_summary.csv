@@ -1,0 +1,5 @@
+metric,value
+global_proteome_file,data_protein_quantification.txt
+samples_in_matrix,99
+LAG3_detected,0
+detection_rate,0

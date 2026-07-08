@@ -1,0 +1,5 @@
+﻿"model","formula","beta_TP53","se_TP53","t_TP53","p_TP53","adj_r2","n","delta_beta_pct"
+"M1_Base","LAG3 ~ tp53_status + Tcell + APM + IFNg",0.4654,0.1389,3.35016266614223,0.00127,0.296,79,0
+"M2_Base_Purity","LAG3 ~ tp53_status + Tcell + APM + IFNg + TumorPurity",0.4267,0.1398,3.0518605946131974,0.00317,0.309,79,-8.3
+"M3_Purity_G2M","LAG3 ~ tp53_status + Tcell + APM + IFNg + TumorPurity + G2M",0.3408,0.1441,2.3651668210699164,0.0207,0.335,79,-26.8
+"M4_Purity_top3","LAG3 ~ tp53_status + Tcell + APM + IFNg + TumorPurity + G2M + MYC + E2F",0.3335,0.1416,2.355892091980461,0.0213,0.358,79,-28.3

@@ -1,0 +1,5 @@
+﻿"Model","GDC n","GDC β(TP53)","GDC p","GDC Δβ%","GDC adj.R²","GLASS n","GLASS β(TP53)","GLASS p","GLASS Δβ%","GLASS adj.R²"
+"Base (TP53 + immune scores)",442,0.2665,9.3e-7,"—",0.303,79,0.4654,0.00127,"—",0.296
+"Base + Tumor purity",442,0.2406,3.24e-6,"-9.7%",0.371,79,0.4267,0.00317,"-8.3%",0.309
+"Base + Tumor purity + G2M checkpoint",442,0.2007,1.11e-4,"-16.6%",0.389,79,0.3408,0.0207,"-26.8%",0.335
+"Base + Tumor purity + G2M + MYC targets v1 + E2F targets",442,0.1973,1.44e-4,"-18%",0.39,79,0.3335,0.0213,"-28.3%",0.358

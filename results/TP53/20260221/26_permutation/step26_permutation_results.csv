@@ -1,0 +1,3 @@
+model,formula,t_obs,p_perm,n_perm,sig_label
+M_int,LAG3_log2tpm ~ tp53_bin * source_bin + idh_bin,-1.8928,0.0512,20000,ns
+M_int_immune,LAG3_log2tpm ~ tp53_bin * source_bin + idh_bin + tcell_score + apm_score,-2.4025,0.0148,20000,*

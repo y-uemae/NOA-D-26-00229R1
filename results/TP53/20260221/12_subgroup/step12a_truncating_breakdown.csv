@@ -1,0 +1,7 @@
+Variant_Classification,is_truncating,n
+Missense_Mutation,FALSE,71
+Nonsense_Mutation,TRUE,10
+Frame_Shift_Del,TRUE,4
+In_Frame_Del,FALSE,4
+Frame_Shift_Ins,TRUE,2
+Splice_Site,TRUE,2

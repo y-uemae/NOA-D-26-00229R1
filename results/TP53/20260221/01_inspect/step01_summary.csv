@@ -1,0 +1,15 @@
+item,value
+wxs_sheet_found,TRUE
+rna_sheet_all_found,TRUE
+rna_sheet_grade2_found,TRUE
+rna_sheet_grade3_found,TRUE
+rna_sheet_grade4_found,TRUE
+wxs_rows,1243
+rna_all_rows,1143
+rna_grade2_rows,625
+rna_grade3_rows,416
+rna_grade4_rows,1351
+multi_grade_cases_detected,"TCGA-CS-6670,TCGA-DH-5141,TCGA-HT-A619"
+rna_downloads_exist,TRUE
+wxs_downloads_exist,TRUE
+glass_found,TRUE

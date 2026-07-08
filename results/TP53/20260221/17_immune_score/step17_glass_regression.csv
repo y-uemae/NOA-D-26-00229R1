@@ -1,0 +1,4 @@
+model,formula,n,beta,ci_lower,ci_upper,se,p_value,r_squared,beta_change_pct
+M0_GLASS,LAG3_log2tpm ~ tp53_bin,79,0.4967,0.1867,0.8068,0.1557,0.0020571272134580474,0.1167,0
+M1_GLASS,LAG3_log2tpm ~ tp53_bin + tcell_score + apm_score,79,0.4588,0.1844,0.7332,0.1378,0.0013473753473497122,0.3289,-7.6
+M2_GLASS,LAG3_log2tpm ~ tp53_bin + tcell_score + apm_score + ifng_score,79,0.4654,0.1886,0.7423,0.1389,0.0012737118022940466,0.3316,-6.3

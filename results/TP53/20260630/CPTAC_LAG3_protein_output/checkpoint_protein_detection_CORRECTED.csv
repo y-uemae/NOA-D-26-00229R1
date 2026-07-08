@@ -1,0 +1,14 @@
+gene,panel,in_matrix,n_detected,detection_rate
+LAG3,checkpoint,0,0,0
+PDCD1,checkpoint,0,0,0
+CD274,checkpoint,1,99,1
+PDCD1LG2,checkpoint,0,0,0
+CTLA4,checkpoint,0,0,0
+TIGIT,checkpoint,0,0,0
+HAVCR2,checkpoint,1,90,0.909
+EGFR,positive_control,1,99,1
+GFAP,positive_control,1,99,1
+VIM,positive_control,1,99,1
+B2M,positive_control,1,99,1
+GAPDH,positive_control,1,99,1
+ACTB,positive_control,1,99,1

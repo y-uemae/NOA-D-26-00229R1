@@ -1,0 +1,4 @@
+score,score_col,n,beta,ci_lower,ci_upper,se,p_value,r_squared,sig_label,p_display
+T-cell score,tcell_score,442,-0.0087,-0.1505,0.1331,0.0722,0.9038561240614109,0.0158,ns,p=0.904 (ns)
+APM score,apm_score,442,0.0095,-0.1516,0.1706,0.082,0.9080167673452819,0.0086,ns,p=0.908 (ns)
+IFN-gamma score,ifng_score,442,-0.0389,-0.2178,0.14,0.091,0.6696780976482091,0.0587,ns,p=0.670 (ns)

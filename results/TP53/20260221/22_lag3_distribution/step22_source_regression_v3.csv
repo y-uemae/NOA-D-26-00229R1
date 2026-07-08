@@ -1,0 +1,3 @@
+source,n,beta,ci_lower,ci_upper,se,p_value,r_squared,sd,sd_label,mut_sd,mut_sd_label,sig_label
+TCGA,245,0.375,0.1866,0.5635,0.0957,1.1539232881547646e-4,0.088,0.5433,WT SD = 0.543,0.8398,Mut SD = 0.840,***
+CPTAC/HCMI,197,0.1352,-0.0097,0.2801,0.0735,0.0672863580607916,0.0577,0.4859,WT SD = 0.486,0.4758,Mut SD = 0.476,ns

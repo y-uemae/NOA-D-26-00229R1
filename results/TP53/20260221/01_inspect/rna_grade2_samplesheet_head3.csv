@@ -1,0 +1,4 @@
+File ID,File Name,Data Category,Data Type,Project ID,Case ID,Sample ID,Tissue Type,Tumor Descriptor,Specimen Type,Preservation Method
+7743562d-00ba-4721-90e7-d60944f537a0,98c25ff6-5826-4956-87ca-fc3f89595d09.rna_seq.augmented_star_gene_counts.tsv,Transcriptome Profiling,Gene Expression Quantification,CPTAC-3,C383391,1104809,Tumor,Primary,Solid Tissue,Frozen
+2bdfb3cd-fac1-4a77-82aa-a1ff4c2c84d5,841e31c9-f23a-4f62-96bd-e44ea3544847.wxs.aliquot_ensemble_masked.maf.gz,Simple Nucleotide Variation,Masked Somatic Mutation,CPTAC-3,"C383391, C383391","SM-JU355, 1105272","Tumor, Normal","Primary, Not Applicable","Solid Tissue, Peripheral Blood Components NOS","Frozen, Frozen"
+c5a36860-7e71-458a-86ee-a1c2d74e1854,2863e605-60a9-4210-a3ac-7bebee7f1017.rna_seq.augmented_star_gene_counts.tsv,Transcriptome Profiling,Gene Expression Quantification,CPTAC-3,C760878,1104791,Tumor,Primary,Solid Tissue,Frozen

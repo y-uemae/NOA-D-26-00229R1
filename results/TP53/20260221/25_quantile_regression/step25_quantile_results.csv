@@ -1,0 +1,5 @@
+method,tau,beta,ci_lower,ci_upper,se,p_value,sig_label,model_label,col_group,is_ols
+OLS,NA,0.2617,0.1405,0.3829,0.0617,2.7024072179389612e-5,***,OLS (mean),ols,TRUE
+Quantile,0.25,0.1628,0.0526,0.273,0.0562,0.003979695990570464,**,Quantile tau=0.25,q25,FALSE
+Quantile,0.5,0.2031,0.0661,0.3401,0.0699,0.0038566111080404752,**,Quantile tau=0.50 (median),q50,FALSE
+Quantile,0.75,0.4049,0.1953,0.6146,0.107,1.7460925527390536e-4,***,Quantile tau=0.75,q75,FALSE
