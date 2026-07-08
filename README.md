@@ -126,4 +126,5 @@ Code is released under the MIT License (see `LICENSE`). Third-party data (GDC/TC
 
 ## Citation
 
-If you use this code, please cite the manuscript (details to be added on acceptance) and this repository (DOI to be added after archiving).
+If you use this code or data, please cite:
+Code and results archive: DOI: 10.5281/zenodo.21257112 (https://doi.org/10.5281/zenodo.21257112)
