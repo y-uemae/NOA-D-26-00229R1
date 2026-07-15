@@ -16,6 +16,7 @@ This repository contains the R scripts and the derived result tables needed to r
 .
 ├── NOA-D-26-00229R1.Rproj      # open this in RStudio first (sets the project root)
 ├── README.md
+├── DATA_ACCESS_GLASS.md         # how to obtain GLASS data and regenerate the GLASS tables
 ├── LICENSE                     # MIT
 ├── scripts/                    # 59 analysis scripts (run in numeric step order)
 ├── results/
@@ -40,16 +41,23 @@ Paths inside every script are resolved with the [`here`](https://here.r-lib.org/
 
 ## Data acquisition
 
-No raw data are included. To reproduce the pipeline from scratch, download the following into `data/raw/` as indicated. (The derived result tables in `results/` let you re-run most downstream/figure scripts without the raw data.)
+No raw data are included. To reproduce the pipeline from scratch, download the following into `data/raw/` as indicated. (The derived result tables in `results/` let you re-run most downstream/figure scripts without the raw data. **Exception: the GLASS-derived tables in `results/` are identifier-only** — see [`DATA_ACCESS_GLASS.md`](DATA_ACCESS_GLASS.md).)
 
 **1. GDC (Genomic Data Commons)** — https://portal.gdc.cancer.gov/
-WHO grade 4 glioma RNA-seq, WXS/MAF mutation, and clinical data (TCGA / CPTAC / HCMI). Cohort-selection queries are defined in `scripts/20260221_Step01 ...`. Place under `data/raw/GDC/glioma/`. (GDC open-access REST API; no authentication.)
+WHO grade 4 glioma RNA-seq, WXS/MAF mutation, and clinical data (TCGA / CPTAC / HCMI). Cohort-selection queries are defined in the `Step01` scripts (`scripts/20260221_Step01 inspect data structure.R`, `scripts/20260221_Step01 multi_grade_cases_gdc_cases_summary.R`). Place under `data/raw/GDC/glioma/`. (GDC open-access REST API; no authentication.)
 
 **2. GLASS consortium** — Synapse `syn17038081` (https://www.synapse.org/#!Synapse:syn17038081)
 Non-TCGA, WXS RNA-seq TPM matrix (`data_mrna_seq_tpm.txt`). Place at `data/raw/external_validation/difg_glass/data_mrna_seq_tpm.txt`.
 
+GLASS data are governed by the Synapse conditions-for-use and are **not redistributed here at the
+per-sample level**: the GLASS tables under `results/` retain only the sample identifiers
+(`case_barcode` / `pair_id`) plus a pointer to the script that regenerates them. To reproduce the
+GLASS analyses, accept the conditions-for-use, download the data, and re-run the cohort-construction
+pipeline — see [`DATA_ACCESS_GLASS.md`](DATA_ACCESS_GLASS.md) for the exact steps and the affected
+outputs (Fig. 1B/1C, Fig. 2, Fig. 3, Fig. S7, Fig. S12; Table S5).
+
 **3. ABSOLUTE purity calls (PanCanAtlas)** — https://gdc.cancer.gov/about-data/publications/pancanatlas
-File `TCGA_mastercalls.abs_tables_JSedit.fixed.txt`, used by the R1-3b ABSOLUTE sensitivity analysis. Place under the path referenced in `scripts/R1 3b step2 ...`.
+File `TCGA_mastercalls.abs_tables_JSedit.fixed.txt`, used by the R1-3b ABSOLUTE sensitivity analysis. Place under the path referenced in `scripts/R1 3b step2 absolute join refit_20260630.R`.
 
 ---
 
@@ -58,7 +66,7 @@ File `TCGA_mastercalls.abs_tables_JSedit.fixed.txt`, used by the R1-3b ABSOLUTE 
 1. Open `NOA-D-26-00229R1.Rproj` in RStudio (this sets the project root used by `here()`).
 2. Install the required packages (above).
 3. Run the scripts in `scripts/` in **numeric step order** (Step01 → Step02 → … → Step32, then the `_20260630` revision scripts). Each script reads from and writes to the corresponding `results/…` sub-folder.
-4. To re-run only a downstream/figure step, ensure its input tables exist in `results/` (they are provided) and run that script directly.
+4. To re-run only a downstream/figure step, ensure its input tables exist in `results/` (they are provided) and run that script directly. **Exception: the GLASS-dependent steps (step10/11/16/17/32)** read identifier-only tables in this repository; the GLASS data must be obtained and the tables regenerated first — see [`DATA_ACCESS_GLASS.md`](DATA_ACCESS_GLASS.md).
 
 ### Important run-order notes
 
@@ -92,6 +100,7 @@ Supplementary figures:
 | Fig. S4 (immune score vs TP53) | `Step21 immune score tp53 diff.R`, `step31_visualization.R` |
 | Fig. S5 (TP53 × immune interaction) | `Step18 interaction emm.R` |
 | Fig. S6 (stratified robustness) | `Step19 robustness stratified_v3.R` |
+| Fig. S7 (immune-score adjustment, GLASS) | `Step17 immune score regression.R` |
 | Fig. S8 (LAG3 distribution) | `Step22 lag3 distribution comparison.R` |
 | Fig. S9 (TP53 × cohort interaction) | `Step24 interaction source.R` |
 | Fig. S10 (permutation) | `Step26 permutation.R` |

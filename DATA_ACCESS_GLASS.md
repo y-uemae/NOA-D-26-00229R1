@@ -10,8 +10,18 @@ the shipped CSVs, which retain only the GLASS sample identifiers (`case_barcode`
 1. Create a Synapse account and accept the GLASS conditions-for-use (syn17038081).
 2. Download the GLASS WXS/RNA expression and mutation data.
 3. Run the cohort-construction pipeline, which regenerates the full per-sample CSVs locally:
-   `scripts/…step05c_01 → 02 → 03 → 04`  (→ 05c_glass/glass_final_cohort_*.csv)
-   then `step28` (ESTIMATE), `step29` (ssGSEA Hallmark), `step32a` (analysis dataset).
+   - `scripts/20260222_step05c_01_glass_mapping.R`
+   - `scripts/20260222_step05c_02_glass_final_cohort.R`
+   - `scripts/20260222_step05c_03_glass_wxs_sensitivity.R`
+   - `scripts/20260222_step05c_04_glass_tcga_exclude.R`
+
+   -> `results/TP53/20260221/05c_glass/glass_final_cohort_*.csv`
+
+   Then, for the derived per-sample tables:
+
+   - `scripts/20260227_step28_estimate_tumor_purity.R`   (ESTIMATE purity)
+   - `scripts/20260227_step29_ssgsea_hallmark.R`         (ssGSEA Hallmark scores)
+   - `scripts/20260227_step32a_prepare_glass_dataset.R`  (analysis dataset)
 4. Downstream GLASS scripts (step10/11/16/17/32) then run against the regenerated full CSVs.
 
 The redacted identifier-only CSVs let you verify row/sample correspondence after regeneration.
