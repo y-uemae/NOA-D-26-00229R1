@@ -1,80 +1,80 @@
-pair_id,StromalScore,ImmuneScore,ESTIMATEScore,TumorPurity
-GLSS-19-0267-TP,-466.171746339674,-2.67681098365012,-468.848557323324,0.8596737374059974
-GLSS-19-0268-TP,-1287.2388578358,-573.43547614965,-1860.67433398545,0.9454374030867223
-GLSS-19-0269-TP,-1095.0916650843,380.582392183212,-714.509272901085,0.8775319637802574
-GLSS-19-0271-TP,-158.265192362605,460.228519509289,301.963327146684,0.7965000294744791
-GLSS-19-0272-TP,583.53621391632,880.913849905166,1464.45006382149,0.6822566790860447
-GLSS-19-0273-TP,435.276250820072,1029.4064522265,1464.68270304657,0.6822317121099958
-GLSS-19-0274-TP,530.873444109043,1583.03334431647,2113.90678842552,0.6095653068826818
-GLSS-19-0278-TP,-630.329570163781,397.758247540672,-232.57132262311,0.8414428324722586
-GLSS-19-0279-TP,-1883.45671537725,-1423.92790813333,-3307.38462351058,0.9928681884652097
-GLSS-19-0280-TP,-805.921706247933,-325.051758041256,-1130.97346428919,0.9051884488083773
-GLSS-CU-P003-TP,-223.166419544876,600.913454447096,377.74703490222,0.7897247855367647
-GLSS-CU-P021-TP,322.514140916212,819.431744998729,1141.94588591494,0.71609018877766
-GLSS-CU-P046-TP,-292.176151100947,543.89074759651,251.714596495564,0.8009380942416374
-GLSS-CU-P053-TP,161.553866427345,1694.63537702508,1856.18924345243,0.6391111852172832
-GLSS-CU-P055-TP,-767.904759143457,779.638864055454,11.7341049119974,0.8215285220759707
-GLSS-CU-P069-TP,-583.736963693009,231.74972686619,-351.987236826818,0.8507847372406713
-GLSS-CU-P101-TP,256.39268811043,1633.35518553264,1889.74787364307,0.6353147754516733
-GLSS-CU-P102-TP,-1048.61773544721,-396.48545558299,-1445.1031910302,0.9238168615110445
-GLSS-CU-R001-TP,-484.237367715216,927.46758158526,443.230213870044,0.7837916988388338
-GLSS-CU-R002-TP,47.1011256723129,669.741448308787,716.8425739811,0.758224076847777
-GLSS-CU-R003-TP,-588.653128574411,143.088440981859,-445.564687592551,0.8579227578532634
-GLSS-CU-R004-TP,25.2948650963557,912.204798239311,937.499663335667,0.7367120523390039
-GLSS-CU-R005-TP,-783.834606324944,175.150241242308,-608.684365082636,0.8699776187473081
-GLSS-CU-R006-TP,-898.995765239193,58.8918237350604,-840.103941504133,0.8862226593997974
-GLSS-CU-R007-TP,14.6029148184519,845.899555787324,860.502470605776,0.7443075218114817
-GLSS-CU-R008-TP,-839.163026683839,-297.382829767073,-1136.54585645091,0.905535788568429
-GLSS-CU-R009-TP,-1170.79010888988,-620.430025987744,-1791.22013487762,0.942066734115788
-GLSS-CU-R010-TP,306.393354492083,598.423171022124,904.816525514206,0.7399476666452308
-GLSS-CU-R012-TP,-1321.5896561494,-633.268777742343,-1954.85843389174,0.949851189267058
-GLSS-CU-R019-TP,-79.0082196257271,1311.08987038431,1232.08165075858,0.7067925208091276
-GLSS-HF-1DDC-TP,-496.168632891828,270.326283699327,-225.842349192501,0.8409087031603636
-GLSS-HF-4D9A-TP,-495.799448428085,603.177965292372,107.378516864286,0.8134429618320038
-GLSS-HF-9A7A-TP,-428.848341259853,750.858863694031,322.010522434178,0.7947173163197662
-GLSS-HF-50F3-TP,147.882868477515,1553.10337833219,1700.98624680971,0.6564657840571572
-GLSS-HF-57AE-TP,117.738875647597,967.244687291477,1084.98356293907,0.7219014167520541
-GLSS-HF-2548-TP,-606.55247992317,406.40500994811,-200.147469975061,0.8388615638662776
-GLSS-HF-2869-TP,-362.714848492366,1229.16489234263,866.450043850268,0.7437241932829337
-GLSS-HF-2919-TP,-869.513875090825,327.050135406387,-542.463739684438,0.8651435404536797
-GLSS-HF-2934-TP,-654.893998412485,1175.37558185273,520.481583440242,0.7766992930645576
-GLSS-HF-3050-TP,-413.344610054747,739.675730797366,326.331120742618,0.7943322016519313
-GLSS-HF-3081-TP,-1166.07107353039,47.5542376014214,-1118.51683592897,0.9044098093343095
-GLSS-HF-3162-TP,-206.401672843585,779.936827157063,573.535154313478,0.7717705716914257
-GLSS-HF-6504-TP,644.867097130768,2100.26790274465,2745.13499987542,0.5336030704723035
-GLSS-HF-6658-TP,-495.775846104921,635.496942360169,139.721096255248,0.8106724379861507
-GLSS-HF-B972-TP,-538.042852260974,713.963208131896,175.920355870922,0.8075498771653101
-GLSS-HF-BCDE-TP,-1092.62763000302,-33.8733514543108,-1126.50098145733,0.9049092307517431
-GLSS-HF-DE05-TP,-1170.23156662184,-651.552581605085,-1821.78414822693,0.943562115319152
-GLSS-HF-DF35-TP,-881.680042998355,1.11517194572441,-880.564871052631,0.888958401717252
-GLSS-HF-EE74-TP,-836.63924167187,68.9233734633996,-767.715868208471,0.881250252014099
-GLSS-LU-0B10-TP,-706.487807755388,392.562394016191,-313.925413739196,0.8478354073548651
-GLSS-LU-0B12-TP,263.769735716529,1173.86789812316,1437.63763383969,0.685128867162296
-GLSS-LU-0B13-TP,-359.155071996442,735.320435089953,376.165363093511,0.7898671922193521
-GLSS-LU-00B9-TP,51.1349859124028,578.606044733505,629.741030645908,0.766497945063534
-GLSS-LU-00C1-TP,-529.512827550285,135.685754192226,-393.827073358058,0.8539961718293764
-GLSS-LU-00C2-TP,-492.562790248568,169.890221460603,-322.672568787965,0.848515551342638
-GLSS-MD-LP04-TP,5.64632565245359,973.362399748282,979.008725400736,0.7325782428137275
-GLSS-SM-R056-TP,-726.932469413994,100.122109959134,-626.81035945486,0.8712864985486742
-GLSS-SM-R060-TP,-681.514017102273,826.921019830642,145.407002728368,0.8101834827188268
-GLSS-SM-R061-TP,-586.515677421699,996.580542805817,410.064865384118,0.7868057219282218
-GLSS-SM-R063-TP,283.286388211796,1715.32685315597,1998.61324136777,0.6228934423258708
-GLSS-SM-R064-TP,-462.643594024139,911.415269302234,448.771675278095,0.7832862850070849
-GLSS-SM-R065-TP,-699.57879203687,213.433907986942,-486.144884049928,0.860967945865789
-GLSS-SM-R066-TP,-225.158116639367,726.25559092634,501.097474286973,0.7784883594282058
-GLSS-SM-R067-TP,-128.742762429223,1427.49856782052,1298.7558053913,0.6998352584205498
-GLSS-SM-R068-TP,15.4794093462615,234.328827271352,249.808236617613,0.8011056112078916
-GLSS-SM-R070-TP,-1119.65726210279,-305.566649887117,-1425.2239119899,0.9226958000889894
-GLSS-SM-R071-TP,-295.705268740775,47.014792355393,-248.690476385382,0.8427189915009579
-GLSS-SM-R072-TP,-604.539783623838,400.234982140501,-204.304801483337,0.839193593004628
-GLSS-SM-R095-TP,-419.961557149198,877.616242346941,457.654685197743,0.7824750211930253
-GLSS-SM-R099-TP,-629.436661687395,570.423391731436,-59.0132699559593,0.827405244956636
-GLSS-SM-R100-TP,34.7666068729885,634.711138505772,669.47774537876,0.7627387733034974
-GLSS-SM-R101-TP,-601.915569752113,489.423685676156,-112.491884075957,0.8317883306727708
-GLSS-SM-R103-TP,-672.832653137121,20.8557635776337,-651.976889559487,0.8730935470810743
-GLSS-SM-R104-TP,-253.697708370325,572.286884857492,318.589176487167,0.7950220497392109
-GLSS-SM-R106-TP,-682.498712963216,530.080008012699,-152.418704950517,0.8350273120408791
-GLSS-SM-R107-TP,-914.51452019716,424.272618032871,-490.24190216429,0.8612736951245019
-GLSS-SM-R108-TP,1032.07113306264,1680.03297615122,2712.10410921386,0.5376973723157269
-GLSS-SM-R109-TP,175.967926224815,1290.60736542033,1466.57529164514,0.6820285688477744
-GLSS-SM-R110-TP,-198.330485966553,911.364280214869,713.033794248315,0.7585884782177538
+"pair_id","glass_data_access","derivation_script"
+"GLSS-19-0267-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-19-0268-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-19-0269-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-19-0271-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-19-0272-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-19-0273-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-19-0274-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-19-0278-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-19-0279-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-19-0280-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-P003-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-P021-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-P046-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-P053-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-P055-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-P069-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-P101-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-P102-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-R001-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-R002-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-R003-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-R004-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-R005-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-R006-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-R007-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-R008-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-R009-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-R010-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-R012-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-CU-R019-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-1DDC-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-4D9A-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-9A7A-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-50F3-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-57AE-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-2548-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-2869-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-2919-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-2934-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-3050-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-3081-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-3162-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-6504-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-6658-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-B972-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-BCDE-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-DE05-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-DF35-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-HF-EE74-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-LU-0B10-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-LU-0B12-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-LU-0B13-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-LU-00B9-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-LU-00C1-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-LU-00C2-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-MD-LP04-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R056-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R060-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R061-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R063-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R064-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R065-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R066-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R067-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R068-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R070-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R071-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R072-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R095-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R099-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R100-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R101-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R103-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R104-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R106-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R107-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R108-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R109-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
+"GLSS-SM-R110-TP","See DATA_ACCESS_GLASS.md — Synapse syn17038081 に conditions-for-use 同意→DL→pipeline再実行で full版を再生成","scripts/…step28_estimate_tumor_purity"
