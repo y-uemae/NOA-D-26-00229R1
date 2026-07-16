@@ -1,0 +1,48 @@
+{
+  "upload_type": "software",
+  "title": "Analysis code and derived data for: TP53 mutation is associated with selective upregulation of LAG3 independent of immune infiltration and antigen-presentation signatures in WHO grade 4 glioma",
+  "description": "<p>Analysis code and derived data accompanying the manuscript &quot;TP53 mutation is associated with selective upregulation of LAG3 independent of immune infiltration and antigen-presentation signatures in WHO grade 4 glioma&quot; (Neuro-Oncology Advances, Ms. No. NOA-D-26-00229R1).</p><p><strong>Restricted data.</strong> GLASS per-sample derived values are governed by the GLASS consortium conditions-for-use (Synapse syn17038081) and are not redistributed here. The shipped GLASS CSVs retain only sample identifiers (case_barcode / pair_id) plus a pointer to the derivation script; see DATA_ACCESS_GLASS.md for the full regeneration procedure. TCGA, CPTAC and HCMI data are obtained from their respective public portals as described in README.md.</p><p><strong>Version history</strong></p><ul><li>v1.3 &mdash; Remove internal audit artifacts from results/; add .zenodo.json</li><li>v1.2 &mdash; Fix GLASS redaction pointers (English text, resolvable script paths)</li><li>v1.1 &mdash; Apply GLASS redaction (Option 2: identifiers + reference pointers)</li><li>v1.0.0 &mdash; Initial release</li></ul>",
+  "creators": [
+    {
+      "name": "Uemae, Youji",
+      "affiliation": "Cell-Medicine, Inc., Tsukuba, Ibaraki, Japan"
+    },
+    {
+      "name": "Miki, Shunichiro",
+      "affiliation": "Department of Neurosurgery, Institute of Medicine, University of Tsukuba, Tsukuba, Ibaraki, Japan"
+    },
+    {
+      "name": "Yamada, Erika",
+      "affiliation": "Department of Neurosurgery, Institute of Medicine, University of Tsukuba, Tsukuba, Ibaraki, Japan"
+    },
+    {
+      "name": "Zaboronok, Alexander",
+      "affiliation": "Department of Neurosurgery, University of Tsukuba Hospital, University of Tsukuba, Tsukuba, Ibaraki, Japan"
+    },
+    {
+      "name": "Ohno, Tadao",
+      "affiliation": "Cell-Medicine, Inc., Tsukuba, Ibaraki, Japan"
+    },
+    {
+      "name": "Ishikawa, Eiichi",
+      "affiliation": "Department of Neurosurgery, Institute of Medicine, University of Tsukuba, Tsukuba, Ibaraki, Japan"
+    }
+  ],
+  "keywords": [
+    "glioma",
+    "WHO grade 4 glioma",
+    "glioblastoma",
+    "TP53",
+    "LAG3",
+    "immune checkpoint",
+    "tumor immune microenvironment",
+    "antigen presentation",
+    "TCGA",
+    "CPTAC",
+    "GLASS",
+    "reproducible analysis",
+    "R"
+  ],
+  "access_right": "open",
+  "language": "eng"
+}
